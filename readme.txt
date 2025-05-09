@@ -68,9 +68,7 @@ Outside of work, I enjoy:
 ## 📬 Let’s Connect!
 
 - 📫 **Email**: [d.hopkins426@hotmail.com](mailto:d.hopkins426@hotmail.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/YOUR-USERNAME](https://www.linkedin.com/in/YOUR-USERNAME)  
-- 📊 **Portfolio**: Coming Soon!
-
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/david-hopkins-ii/]
 ---
 
 Thanks for stopping by!
