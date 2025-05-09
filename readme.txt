@@ -1,14 +1,76 @@
-## Hey 👋, This is David Hopkins II
+# 👋 Hi, I'm David Hopkins II
 
-[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/david-hopkins-ii/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/david-hopkins-ii//)](https://www.linkedin.com/in/https://www.linkedin.com/in/david-hopkins-ii//) [![Github Badge](https://img.shields.io/badge/-Dhhopkins2015-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Dhhopkins2015/)](https://www.github.com/Dhhopkins2015/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/Dhhopkins2015/)](https://github.com/Dhhopkins2015/) <p align='left'>Hello,
+**Operations Analyst | Data Enthusiast | Logistics & Compliance Specialist**
 
-I am currently a student at Triple Ten studying Business Intelligence Analysis
+Welcome to my GitHub! I’m a data-driven operations professional with 10+ years of experience in logistics, compliance, and supply chain management—currently transitioning into business intelligence and analytics.
 
-I have ten years experience in the manufacturing environment, varying from entry level to management positions and am eager to apply my education to the problems I am all too familiar with that span almost every industry
+From optimizing warehouse systems to building KPI dashboards that improve tracking accuracy by 40%, I’ve consistently used data to solve real-world challenges. My journey into analytics began with a childhood obsession for simulation games like *Theme Park Tycoon*, where I learned to dive deep into systems, spot patterns, and make strategic decisions—skills I’ve carried into my career.
 
-I am skilled with data-visualization, troubleshooting, inventory management , and process optimization</p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=Dhhopkins2015 alt=Dhhopkins2015 /> </p>
+---
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Dhhopkins2015&show_icons=true&include_all_commits=true)](https://github.com/Dhhopkins2015/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhhopkins2015&layout=compact)](https://github.com/Dhhopkins2015/github-readme-stats)
+## 🔧 Technical Skills
+
+- **Languages & Tools**: SQL • Tableau • Power BI • Excel (Advanced) • SAP • Datacor ERP
+- **Logistics & Compliance**: DOT • IATA • IMDG Certified • Inventory Control • BOL Generation
+- **Tech Stack Familiarity**: Great Plains • Asset Panda • Open Bravo • Microsoft Suite
+
+---
+
+## 📊 Featured Projects
+
+### 🧮 Sprint 4 – Tableau Profitability Analysis  
+**[View Dashboard](https://public.tableau.com/views/Sprint4ProjectDavidHopkinsII/CustomersWithMostReturns)**  
+Analyzed Superstore sales to identify key profit/loss areas and customer return trends.
+- Proposed ad targeting strategy by state and seasonality.
+- Highlighted underperforming products for discontinuation.
+- Visualized return rates and profit margins to support decision-making.
+
+---
+
+### 🏙️ Sprint 1 – Airbnb Market Analysis  
+Identified high-engagement NYC neighborhoods and top-performing listings.
+- Filtered by property type and size (1-bed & studios).
+- Estimated annual earnings over $250K for top listings.
+- Highlighted market saturation risks and pricing patterns.
+
+---
+
+### 🔁 Sprint 2 – E-Commerce Retention & Funnel Analysis  
+Explored user retention and conversion metrics.
+- Built a purchase conversion funnel from raw event data.
+- Created customer cohorts to measure retention over time.
+- Identified steep post-purchase drop-off and made retention improvement suggestions.
+
+---
+
+## 🚀 Experience Highlights
+
+- Helped generate **$12M+ in revenue** and reduced waste disposal costs by **70%** in a high-volume logistics environment.
+- Designed and implemented a **live KPI dashboard** for fleet and asset tracking.
+- Led a **warehouse racking system overhaul** and ERP transition to improve space utilization and operational efficiency.
+- Certified in **DOT**, **IATA**, and **IMDG** hazardous shipping regulations.
+
+---
+
+## 🎯 What I’m Looking For
+
+I’m currently seeking opportunities as an **Operations Analyst** or **Supply Chain Data Analyst** where I can merge my hands-on logistics experience with my analytical toolkit to improve systems, reduce costs, and support smart business decisions.
+
+---
+
+## 🌱 More About Me
+
+Outside of work, I enjoy:
+🎮 Gaming | 🎣 Fishing | 📺 Streaming shows | 🥾 Hiking
+
+---
+
+## 📬 Let’s Connect!
+
+- 📫 **Email**: [d.hopkins426@hotmail.com](mailto:d.hopkins426@hotmail.com)  
+- 💼 **LinkedIn**: [linkedin.com/in/YOUR-USERNAME](https://www.linkedin.com/in/YOUR-USERNAME)  
+- 📊 **Portfolio**: Coming Soon!
+
+---
+
+Thanks for stopping by!
